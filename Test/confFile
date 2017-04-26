@@ -1,0 +1,10 @@
+[linux]
+chrome="/usr/bin/chromedriver"
+firefox="/usr/bin/geckodriver"
+
+[windows]
+chrome=""
+firefox=""
+
+[common]
+browsername="firefox"
